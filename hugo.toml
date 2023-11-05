@@ -1,0 +1,9 @@
+ baseURL = "https://BCBuizer.github.io/"
+ languageCode = "en-us"
+ theme = "anatole"
+ enableEmoji = true
+
+ [params]
+ title = "Power Platform Community Solutions"
+ author = "HelmUpgradeBot"
+ description = "Answers to recurring questions"

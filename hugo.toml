@@ -5,5 +5,17 @@
 
  [params]
  title = "Power Platform Community Solutions"
- author = "HelmUpgradeBot"
  description = "Answers to recurring questions"
+ mainSections = ["blog"]
+ author = "BCBuizer"
+ profilePicture = "images/profile_pic.png"
+
+ [[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/barend-buizer/"
+
+[[params.socialIcons]]
+icon = "fas fa-light fa-users"
+title = "Microsoft Power Platform Community"
+url = "https://powerusers.microsoft.com/t5/user/viewprofilepage/user-id/266500/"
